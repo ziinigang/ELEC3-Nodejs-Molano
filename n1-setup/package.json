@@ -1,0 +1,19 @@
+{
+  "name": "n1-setup",
+  "version": "1.0.0",
+  "description": "Node.js project setup and package management activity",
+  "license": "ISC",
+  "author": "Zheena Collene V. Molano",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
