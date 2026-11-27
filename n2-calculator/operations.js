@@ -1,6 +1,7 @@
 // Name: Zheena Collene V. Molano
 // Section: IV-BSIT-B
 // Activity: N2 - Modular Calculator
+// Date: November 28, 2026
 
 function add(a, b) {
     return a + b;
